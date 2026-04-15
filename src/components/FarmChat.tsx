@@ -94,7 +94,7 @@ export default function FarmChat() {
   };
 
   return (
-    <div className="flex flex-col h-screen bg-background">
+    <div className="flex flex-col h-full bg-background">
       {/* Header */}
       <header className="shrink-0 border-b bg-card px-4 py-3 flex items-center gap-3">
         <div className="size-10 rounded-full bg-primary flex items-center justify-center">
